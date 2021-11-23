@@ -24,6 +24,41 @@ body {
 
 /* Fine intestazione sito */
 
-  
+/* Inizio box bottoni */
+
+.box-button {
+    height: 50px;
+    width: 50%;
+    background-color: #fff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    margin: auto;
+    margin-top: 40px;  
+}
+
+.button {
+    padding: 5px 8px;
+    margin-top: 15px;
+    position: relative;
+    left: 40px;
+    font-family: sans-serif;
+}
+
+.button-left {
+    color: #fff;
+    background-color: #1E90FF;
+    border-radius: 8px;
+    border: 0px;
+}
+
+.button-right {
+    color: #808080;
+    background-color: #DCDCDC;
+    border-radius: 8px;
+    border: 2px;
+    border-color: #808080;
+}
+
+/* Fine box bottoni */
 
 
