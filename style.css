@@ -1,0 +1,29 @@
+/* Inizio intestazione sito */
+
+body {
+    background-color: #DCDCDC;
+}
+    
+.container-logo {
+    height: 60px;
+    background-color: #fff;
+
+}
+
+.logo-text {
+    vertical-align: middle;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.logo {
+    vertical-align: middle;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+/* Fine intestazione sito */
+
+  
+
+
