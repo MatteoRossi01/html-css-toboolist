@@ -28,7 +28,7 @@ body {
 
 .box-button {
     height: 50px;
-    width: 50%;
+    width: 80%;
     background-color: #fff;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
@@ -40,7 +40,7 @@ body {
     padding: 5px 8px;
     margin-top: 15px;
     position: relative;
-    left: 40px;
+    left: 50px;
     font-family: sans-serif;
 }
 
@@ -53,12 +53,112 @@ body {
 
 .button-right {
     color: #808080;
-    background-color: #DCDCDC;
+    background-color: #fff;
     border-radius: 8px;
-    border: 2px;
+    border: 1px solid;
     border-color: #808080;
 }
-
 /* Fine box bottoni */
 
+/* Inizio box to-do list */
+.container {
+    height: 570px;
+    width: 80%;
+    background-color: #fff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin-left: 133px;
+    margin-top: 2px;
+    display: inline-block;
+}
+/* Fine box to-do list */
 
+/* lista */
+.lista {
+    margin-left: 50px;
+    margin-top: 40px;
+    
+}
+
+.toggle {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #343434;
+}
+
+.simbolo {
+    padding: 4px;
+    font-size: 0.6em;
+    font-weight: bold;
+    position: relative;
+    top: 8px;
+    left: 5px;
+    border-radius: 15px;
+    border: 1px solid;
+}
+
+.spunta {
+    border-color: #60f000;
+    color: #60f000;
+}
+
+.X {
+    border-color: #f00020;
+    color: #f00020;
+}
+
+.text {
+    font-family: sans-serif;
+    color: #343434;
+    font-size: 16px;
+    position: relative;
+    top: 8px;
+    left: 10px;
+}
+
+.row {
+    margin-top: 25px;
+}
+/* Lista */
+
+/* Differenze status */
+.status {
+    font-weight: bold;
+    font-size: 11px;
+    font-family: sans-serif;
+    color: #fff;
+    background-color: #1E90FF;
+    border-radius: 10px;
+    border: 0px;
+    padding: 6px 8px;
+    position: relative;
+    left: 11px;
+    top: 7px;
+}
+
+.editorial {
+    background-color: #1E90FF;
+}
+
+.q1 {
+    background-color: #914878;
+}
+
+.recruiting {
+    background-color: #4bb881;
+}
+
+.mobile {
+    background-color: #f8992d;
+}
+
+.website {
+    background-color: #d628d6;
+}
+
+.sales {
+    background-color: #19bb2e;
+}
+/* Differenze status */
+    
